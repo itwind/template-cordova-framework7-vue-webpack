@@ -1,4 +1,4 @@
-# template-framework7-vue-webpack
+# template-cordova-framework7-vue-webpack
 
 > A Cordova Framework7 V3 Vue webpack template Project
 
