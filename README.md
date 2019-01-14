@@ -1,6 +1,6 @@
 # template-framework7-vue-webpack
 
-> A Framework7 V3 Vue webpack template Project
+> A Cordova Framework7 V3 Vue webpack template Project
 
 ## Build Setup
 
